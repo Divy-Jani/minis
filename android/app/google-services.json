@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291929008765",
+    "project_id": "minis-c7346",
+    "storage_bucket": "minis-c7346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291929008765:android:14c8d0e4192438290c5f14",
+        "android_client_info": {
+          "package_name": "com.example.fluttermini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSZ-LrPa8LitwaVRwptO4CqwKUzCwiVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
